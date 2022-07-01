@@ -3,17 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubcharan&label=Profile%20views&color=0e75b6&style=flat" alt="githubcharan" /> </p>
 
-- 🔭 I’m currently fresher **frontend devloper**
-
-- 🌱 I’m currently learning **JavaFullstack in JSPIDERS Institute-Bengaluru**
-
-- 🤝 I’m looking for a job **frontend developer**
-
-- 💬 Ask me about **HTML,CSS,CoreJava,SQL**
-
 - 📫 How to reach me **ekambaramcharan022@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RwLOlP8fV-mPLUlwxPHMF30qcndLS9CM/edit?usp=sharing&ouid=113529420423682805695&rtpof=true&sd=true](https://docs.google.com/document/d/1RwLOlP8fV-mPLUlwxPHMF30qcndLS9CM/edit?usp=sharing&ouid=113529420423682805695&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
